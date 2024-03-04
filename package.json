@@ -1,0 +1,11 @@
+{
+  "name": "mamacow_bot",
+  "version": "0.0.1",
+  "description": "a simple discord bot",
+  "main": "index.js",
+  "author": "deyvis0n <deyvisonsferreira@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  }
+}
