@@ -6,7 +6,8 @@
   "author": "deyvis0n <deyvisonsferreira@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsc && node ./dist/index.js"
+    "start": "node ./dist/index.js",
+    "build": "tsc"
   },
   "devDependencies": {
     "typescript": "^5.3.3"
